@@ -163,5 +163,3 @@ Results are displayed in the console. For persistent storage, modify the scripts
 For complete version requirements, see `requirements.txt`.
 
 ---
-
-**Note**: This project is for educational and research purposes. Always verify data quality and model assumptions before making financial decisions.
